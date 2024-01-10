@@ -17,7 +17,7 @@ const categories = [
       "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-5_4.png",
   },
   { cid: 113,
-    name: "Home Decor",
+    name: "Daily_Use_Products",
     image:
       "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-9_3.png",
   },
